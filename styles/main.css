@@ -423,6 +423,9 @@ button {cursor: pointer;}
     .our-blogs {display: grid; grid-template-rows: 1fr;margin:0; margin-left:12%; margin-right:12%;}
     .blog1{width: 250px; margin:0; paddind: 0;}
     .blog2, .blog3 {display: none;}
+   body{
+    margin:none;
+   }
     }
 
     
