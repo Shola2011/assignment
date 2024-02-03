@@ -304,6 +304,9 @@ button {cursor: pointer;}
   .inside-div1{margin-bottom: -60px;}
   .div1 {margin-top: 100px;}
   .inside-div1{width: 70%; margin-left: -20%;}
+ body{
+  margin-left:2%; margin-right:2%;
+ }
 }
 
 
